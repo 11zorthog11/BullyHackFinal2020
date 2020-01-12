@@ -1,0 +1,39 @@
+
+body {
+    background-color: maroon;
+}
+
+#title {
+    position:relative;
+    left: 45%;
+}
+
+#leaveReview {
+    width:50%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    position: relative;
+    left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#viewReviews {
+    width:50%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    position: relative;
+    left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#viewDining {
+    width:50%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    position: relative;
+    left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

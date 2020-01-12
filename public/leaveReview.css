@@ -1,0 +1,22 @@
+
+body {
+    background-color: maroon;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+
+#title {
+    position:relative;
+    left: 45%;
+}
+
+h1 {
+    color: white;
+}
+
+#box {
+    border-collapse: collapse;
+    padding: 30px;
+    width:fit-content;
+    color: white;
+}
